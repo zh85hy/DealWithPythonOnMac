@@ -38,6 +38,8 @@ Depending on which shell you use, any of the following files may have been modif
 
 我这里修改的是~/.bash_profile文件。
 
-［补充：新增指向Python 3.6的快捷方式］
+
+｛补充：新增指向Python 3.6的快捷方式｝
+
 sudo ln -s /Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /usr/local/bin/python
 
